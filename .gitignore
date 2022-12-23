@@ -1,4 +1,5 @@
 **/.terraform/*
+**/cliente-leo-api/*
 *.tfstate
 *.tfstate.*
 *.pem
